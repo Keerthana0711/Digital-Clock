@@ -5,3 +5,4 @@ A digital clock web-page which shows the current local time and is buuild using 
 
 This is the preview of page:
 
+![Preview](dig_clk.png)
